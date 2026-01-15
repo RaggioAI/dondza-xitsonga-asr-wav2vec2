@@ -55,7 +55,7 @@ Os **pesos/checkpoint do modelo e ficheiros associados neste repositório** são
 - Termos completos: consultar **LICENSE** neste repositório.
 
 ### 2) Uso comercial (pago)
-Se pretender usar este modelo **comercialmente** (incluindo implementá-lo num produto/serviço comercial ou usá-lo para alimentar uma oferta paga), deve obter uma **Licença Comercial** da Raggio AI.
+Se pretender usar este modelo **comercialmente** (incluindo implementá-lo num produto/serviço comercial ou usá-lo para alimentar uma oferta paga), deve obter uma **Licença Comercial** da Raggio AI, Lda.
 
 Como solicitar uma licença comercial:
 - Abrir uma discussão neste repositório: https://huggingface.co/Raggio/dondza-xitsonga-asr-wav2vec2/discussions
