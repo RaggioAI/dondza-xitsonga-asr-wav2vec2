@@ -1,0 +1,40 @@
+Copyright (c) 2026 Raggio AI, Lda.
+Todos os direitos reservados.
+
+1) Definições
+- “Materiais” inclui pesos do modelo, checkpoints, tokenizer, configs, código de exemplo e documentação.
+- “Uso Não-Comercial” significa uso que não é principalmente destinado a vantagem comercial ou compensação monetária.
+- “Uso Comercial” inclui, sem limitação:
+  (a) vender, licenciar ou distribuir os Materiais mediante pagamento;
+  (b) usar os Materiais num produto/serviço pago, monetizado, ou que gere receita (inclui SaaS/API);
+  (c) prestar serviços a terceiros com base nos Materiais mediante pagamento (consultoria, integrações, alojamento de inferência);
+  (d) uso interno empresarial que suporte materialmente uma actividade comercial.
+
+2) Concessão de direitos (Não-Comercial)
+Sujeito aos termos desta licença, é concedida uma licença mundial, não-exclusiva, intransmissível, revogável para:
+- usar, reproduzir e modificar os Materiais apenas para Uso Não-Comercial;
+- partilhar e redistribuir os Materiais (originais ou modificados) apenas para Uso Não-Comercial.
+
+3) Condições
+Deves:
+- incluir este texto de licença em qualquer redistribuição (incluindo versões modificadas);
+- atribuir créditos de forma razoável;
+- assinalar modificações e descrever alterações quando razoável.
+
+4) Restrições
+Não podes:
+- usar os Materiais para Uso Comercial sem uma licença comercial separada da Raggio AI;
+- remover/alterar avisos de copyright, atribuição ou licença.
+
+5) Licença comercial
+Para Uso Comercial, é necessária licença comercial separada.
+Contacto: sales@raggioai.com
+
+6) Rescisão
+A licença termina automaticamente em caso de violação. Deves cessar uso/redistribuição e apagar cópias.
+
+7) Exclusão de garantias
+OS MATERIAIS SÃO FORNECIDOS “NO ESTADO EM QUE SE ENCONTRAM”, SEM GARANTIAS.
+
+8) Limitação de responsabilidade
+NA MEDIDA MÁXIMA PERMITIDA POR LEI, A RAGGIO AI NÃO SERÁ RESPONSÁVEL POR QUAISQUER DANOS/RESPONSABILIDADES DECORRENTES DO USO DOS MATERIAIS.
