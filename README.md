@@ -36,16 +36,16 @@ metrics:
 
 # dondza-xitsonga-asr-wav2vec2
 
-**Dondza-Xitsonga Wav2Vec2** é um modelo de Reconhecimento Automático de Fala (ASR) em Xitsonga afinado no contexto do projecto **Dondza** (Raggio AI) a partir do checkpoint pré-treinado **facebook/wav2vec2-xls-r-300m**.
+**Dondza-Xitsonga Wav2Vec2** é um modelo de Reconhecimento Automático de Fala em Xitsonga afinado no contexto do projecto **Dondza** (Raggio AI) a partir do checkpoint pré-treinado **facebook/wav2vec2-xls-r-300m**.
 
-Tanto quanto sabemos, este é um dos primeiros modelos ASR end-to-end **desenvolvidos em Moçambique e publicamente disponibilizados** para Xitsonga.  
+Tanto quanto sabemos, este é um dos primeiros modelos de Reconhecimento Automático de Fala end-to-end **desenvolvidos em Moçambique e publicamente disponibilizados** para Xitsonga.  
 (Se tiver conhecimento de lançamentos moçambicanos anteriores, por favor partilhe — agradecemos correcções.)
 
 ---
 
 ## Licença (LER PRIMEIRO) — Licenciamento duplo para o checkpoint do modelo
 
-Este repositório fornece um checkpoint ASR afinado e ficheiros relacionados.
+Este repositório fornece um checkpoint de Reconhecimento Automático de Fala afinado e ficheiros relacionados.
 
 ### 1) Uso não comercial (predefinição, gratuito)
 Os **pesos/checkpoint do modelo e ficheiros associados neste repositório** são disponibilizados sob a **Licença de Modelo Não Comercial Dondza**.
@@ -63,7 +63,7 @@ Como solicitar uma licença comercial:
 
 Podemos oferecer:
 - Licença comercial para auto-hospedagem dos pesos do modelo, e/ou
-- Acesso por subscrição a uma API ASR alojada (termos comerciais/SLA disponíveis mediante solicitação)
+- Acesso por subscrição a uma API de Reconhecimento Automático de Fala alojada (termos comerciais/SLA disponíveis mediante solicitação)
 
 ---
 
@@ -135,7 +135,7 @@ Melhor checkpoint (seleccionado pelo menor WER de validação):
 
 ## Uso pretendido
 
-- Entrada de voz para a aplicação Dondza (ASR Xitsonga)
+- Entrada de voz para a aplicação Dondza (Reconhecimento Automático de Fala Xitsonga)
 - Investigação e prototipagem para tecnologia de fala Xitsonga
 - Transcrição em lote de gravações de **fala lida ou limpa** em Xitsonga
 
